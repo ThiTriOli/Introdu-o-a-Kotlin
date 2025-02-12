@@ -1,5 +1,4 @@
-
-//atv4//
+//atv4-Faça um Programa que peça as 4 notas bimestrais e mostre a média//
 fun main() {
     println("Digite a primeira nota: ")
     val nota01 = readLine()!!.toInt()
