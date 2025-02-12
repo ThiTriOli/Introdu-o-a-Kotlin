@@ -1,4 +1,4 @@
-//atv10//
+//atv10- Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.//
 fun main() {
     println("Digite o valor em Celsius: ")
     val C = readLine()!!.toDouble()
